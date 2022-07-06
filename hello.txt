@@ -13,5 +13,6 @@ Hello vertiv! Hello git!
 Hello vertiv! Hello git!
 Hello vertiv! Hello git!
 Hello vertiv! Hello git!
-Hello vertiv! Hello git!
+Hello vertiv! Hello git!hot-fix test
 Hello vertiv! Hello git!master test
+
